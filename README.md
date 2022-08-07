@@ -1,2 +1,1 @@
-# Quiz-App
-Basic Quiz App made using Flutter &amp; Dart.
+Basic Quiz App made using Flutter and Dart.
